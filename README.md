@@ -7,7 +7,7 @@
  <h2> Stage 1: <h2>
   
  * Data Set creation
- * Implemiting computer vsion to detect the custom objets
+ * Implementing computer vision to detect the custom objets
  * Training the model
  * Implementing Virtual Cart 
  * Price calculator
